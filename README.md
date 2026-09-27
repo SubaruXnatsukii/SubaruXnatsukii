@@ -42,7 +42,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <a href="https://telegram.me/SubaruXnatsuki"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 
-<a href="https://github.com/irfanx1">
+<a href="https://github.com/SubaruXnatsukii">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=SubaruXnatsukii&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 <div style="text-align: center;">
