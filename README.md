@@ -32,7 +32,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=irfanx1&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/irfanx1) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanx1&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/irfanx1)
+[<img src="https://github-readme-stats.vercel.app/api?username=irfanx1&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/SubaruXnatsukii) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanx1&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/SubaruXnatsukii)
     
 
     
@@ -43,7 +43,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 </p>
 
 <a href="https://github.com/irfanx1">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=irfanx1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=SubaruXnatsukii&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 <div style="text-align: center;">
   <a href="">
